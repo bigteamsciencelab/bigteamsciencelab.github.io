@@ -6,15 +6,18 @@ cover-img: /assets/img/events_blank.png
 
 #### *Upcoming Events*
 
+
+***
+
+#### *Past Events*
+
 ### October 27-28, 2022 
 ## Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
 [Conference Website](https://bigteamscienceconference.github.io)
 
-***
 
-#### *Past Events*
 
 ### April 29, 2022 10-11:30am PT on Zoom
 ## *Panel:* Authorship challenges in big team science

@@ -53,8 +53,15 @@ cover-img: /assets/img/people_blank.png
 * [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
 <br>
 
+
 ***
 
+## Funding
+
+Activities of the Big Team Science Lab are supported by a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) awarded by the [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/). You can find our application materials [here](https://osf.io/xavnd/).
+<br>
+
+***
 
 ### Get involved
 We encourage everyone who is interested in Big Team Science to [get involved]({{site.baseurl}}/get_involved/).
