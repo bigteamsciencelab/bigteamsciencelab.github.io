@@ -1,6 +1,6 @@
 ---
 layout: page
-title: people
+title: people & partners
 cover-img: /assets/img/people_blank.png
 ---
 

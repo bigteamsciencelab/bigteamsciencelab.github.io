@@ -13,7 +13,7 @@ The Stanford **Big Team Science (BiTS)** Lab was established in 2021 to facilita
 
 
 ***
-## [People]({{site.baseurl}}/people/)
+## [People & Partner Organizations]({{site.baseurl}}/people/)
 
 
 ***
