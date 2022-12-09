@@ -5,7 +5,8 @@ cover-img: /assets/img/events_blank.png
 ---
 
 #### *Upcoming Events*
-
+<br>
+<br>
 
 ***
 
@@ -18,7 +19,7 @@ cover-img: /assets/img/events_blank.png
 [Conference Website](https://bigteamscienceconference.github.io)
 
 
-
+***
 ### April 29, 2022 10-11:30am PT on Zoom
 ## *Panel:* Authorship challenges in big team science
 
