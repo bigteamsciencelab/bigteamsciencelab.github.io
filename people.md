@@ -25,8 +25,12 @@ cover-img: /assets/img/people_blank.png
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences & Max Planck Institute for Psycholinguistics, ManyBabies*
 * [Manuel Bohn](https://manuelbohn.github.io/), *Max Planck Institute for Evolutionary Anthropology, ManyPrimates*
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, ManyBabies*
+* [Sarah-Elizabeth Byosiere](https://www.gc.cuny.edu/people/sarah-elizabeth-byosiere), *CUNY, ManyDogs*
+* [Nadia Saraí Corral-Frías](), *University of Sonora, ABRIR*
+* [Tim Errington](https://osf.io/alh38/), *Center for Open Science*
 * [Julia Espinosa](https://sites.google.com/view/jespinosa), *Harvard University, ManyDogs*
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, ManyBabies*
+* [Alma Jeftić](https://scholar.google.com/citations?hl=hr&user=oXBgT5IAAAAJ&scilu=&scisig=AMD79ooAAAAAXq25diM285kFt1dt_PGpX5fStWUWAcr_&gmla=AJsN-F77VWP7ByzcKTeyKVUFBEMMrhEt1Oo28IneH9WUpDk0B8NXc_lMDD_rBcEoIkFrjqcrXFdc9Sx4lPeyYZITuPtGSBZFo_qzJ_6zHHdLvyqPFT2_DOqdlWrWqliUGZ4r44PD6ELr&sciund=14116810897412037656), *International Christian University, ABRIR*
 * [Melissa Kline Struhl](http://www.melissaklinestruhl.com), *MIT, Lookit & ManyBabies*
 * [Eon-Suk Ko](https://sites.google.com/site/eonsuk/), *Chosun University, ManyBabies*
 * [Jessica Kosie](https://jkosie.github.io), *Princeton University, ManyBabies*
@@ -37,11 +41,15 @@ cover-img: /assets/img/people_blank.png
 * [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, ManyFishes*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, ManyBabies*
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, ManyDogs*
+* [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, Canadian Reproducibility Network*
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, ManyBabies*
 * [Martin Zettersten](https://mzettersten.github.io), *Princeton University, ManyBabies*
 
 
-## Affiliate organizations
+## Affiliate and Partner Organizations
+* [ABRIR](https://abrirpsy.org/)
+* [Canadian Reproducibility Network](https://carn-recar.ca/)
+* [Center for Open Science](https://www.cos.io/)
 * [FORRT](https://forrt.org/)
 * [Lookit & Children Helping Science](https://lookit.mit.edu)
 * [ManyBabies](manybabies.github.io)
