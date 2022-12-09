@@ -14,7 +14,7 @@ cover-img: /assets/img/people_blank.png
 ## Stanford members
 * [Shilaan Alzahawi](https://shilaan.rbind.io), *Stanford University, Center for Open and Reproducible Science, Data Science for Social Good*
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, ManyBabies*
-* [Sophia Pink](http://www.sophiapink.com), *Stanford University, Strengthening Democracy Challenge*
+* [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, Canadian Reproducibility Network*
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Stanford University, Strengthening Democracy Challenge*
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Stanford University, Strengthening Democracy Challenge*
 
@@ -41,7 +41,6 @@ cover-img: /assets/img/people_blank.png
 * [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, ManyFishes*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, ManyBabies*
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, ManyDogs*
-* [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, Canadian Reproducibility Network*
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, ManyBabies*
 * [Martin Zettersten](https://mzettersten.github.io), *Princeton University, ManyBabies*
 
@@ -61,6 +60,9 @@ cover-img: /assets/img/people_blank.png
 * [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
 <br>
 
+
+## Alumni
+* [Sophia Pink](http://www.sophiapink.com), *Stanford University, Strengthening Democracy Challenge*
 
 ***
 
