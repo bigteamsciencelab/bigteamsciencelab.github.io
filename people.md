@@ -11,6 +11,7 @@ cover-img: /assets/img/people_blank.png
 ### Co-Directors
 * [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies*
 * [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator*
+<br>
 
 * [Shilaan Alzahawi](https://shilaan.rbind.io), *Stanford University, Center for Open and Reproducible Science, Data Science for Social Good*
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, ManyBabies*
