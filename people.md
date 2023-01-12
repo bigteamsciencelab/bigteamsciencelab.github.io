@@ -8,13 +8,13 @@ cover-img: /assets/img/people_blank.png
 ***
 
 ## Stanford members
-* **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Executive Director, ManyBabies*
-* **Co-Director:** [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *Director, Psychological Science Accelerator*
-* [Shilaan Alzahawi](https://shilaan.rbind.io), *Center for Open and Reproducible Science; Data Science for Social Good*
-* [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *ManyBabies*
-* [Robert Thibault](https://www.robert-thibault.com/), *Canadian Reproducibility Network*
-* [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Strengthening Democracy Challenge*
-* [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Strengthening Democracy Challenge*
+* **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *CSLI; Executive Director, ManyBabies*
+* **Co-Director:** [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *CSLI; Director, Psychological Science Accelerator*
+* [Shilaan Alzahawi](https://shilaan.rbind.io), *Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
+* [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Psychology; ManyBabies*
+* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
+* [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Sociology; Strengthening Democracy Challenge*
+* [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Sociology; Strengthening Democracy Challenge*
 
 ## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*
