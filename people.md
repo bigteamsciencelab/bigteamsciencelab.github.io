@@ -19,7 +19,7 @@ cover-img: /assets/img/people_blank.png
 ## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*
 * [Drew Altschul](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK; ManyPrimates*
-* [Flavio Azevedo](http://flavioazevedo.com/about), *Cambridge University, UK; FORRT*
+* [Flavio Azevedo](http://flavioazevedo.com/about), *University of Cambridge, UK; FORRT*
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany; Max Planck Institute for Psycholinguistics, Netherlands; ManyBabies*
 * [Manuel Bohn](https://manuelbohn.github.io/), *Max Planck Institute for Evolutionary Anthropology, Germany; ManyPrimates*
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada; ManyBabies*
@@ -35,7 +35,7 @@ cover-img: /assets/img/people_blank.png
 * [Megan Lambert](https://www.researchgate.net/profile/Megan-Lambert), *University of Veterinary Medicine, Vienna, Austria; ManyBirds*
 * [Casey Lew-Willams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, USA; ManyBabies*
 * [Brianna McMillan](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College, USA; ManyBabies*
-* [Rachael Miller](https://www.drrachaelmiller.com/), *Anglia Ruskin University, UK; ManyBirds*
+* [Rachael Miller](https://www.drrachaelmiller.com/), *University of Cambridge & Anglia Ruskin University, UK; ManyBirds*
 * [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, USA; ManyFishes*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada; ManyBabies*
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, USA; ManyDogs*
