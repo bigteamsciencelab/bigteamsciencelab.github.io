@@ -7,11 +7,11 @@ cover-img: /assets/img/people_blank.png
 
 ***
 
-## Co-Directors
+## Stanford members
+### Co-Directors
 * [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, ManyBabies*
 * [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator*
 
-## Stanford members
 * [Shilaan Alzahawi](https://shilaan.rbind.io), *Stanford University, Center for Open and Reproducible Science, Data Science for Social Good*
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, ManyBabies*
 * [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, Canadian Reproducibility Network*
@@ -30,7 +30,7 @@ cover-img: /assets/img/people_blank.png
 * [Tim Errington](https://osf.io/alh38/), *Center for Open Science*
 * [Julia Espinosa](https://sites.google.com/view/jespinosa), *Harvard University, ManyDogs*
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, ManyBabies*
-* [Alma Jeftić](https://scholar.google.com/citations?hl=hr&user=oXBgT5IAAAAJ&scilu=&scisig=AMD79ooAAAAAXq25diM285kFt1dt_PGpX5fStWUWAcr_&gmla=AJsN-F77VWP7ByzcKTeyKVUFBEMMrhEt1Oo28IneH9WUpDk0B8NXc_lMDD_rBcEoIkFrjqcrXFdc9Sx4lPeyYZITuPtGSBZFo_qzJ_6zHHdLvyqPFT2_DOqdlWrWqliUGZ4r44PD6ELr&sciund=14116810897412037656), *International Christian University, ABRIR*
+* [Alma Jeftić](https://scholar.google.com/citations?hl=hr&user=oXBgT5IAAAAJ&scilu=&scisig=AMD79ooAAAAAXq25diM285kFt1dt_PGpX5fStWUWAcr_&gmla=AJsN-F77VWP7ByzcKTeyKVUFBEMMrhEt1Oo28IneH9WUpDk0B8NXc_lMDD_rBcEoIkFrjqcrXFdc9Sx4lPeyYZITuPtGSBZFo_qzJ_6zHHdLvyqPFT2_DOqdlWrWqliUGZ4r44PD6ELr&sciund=14116810897412037656), *International Christian University & University of Copenhagen, ABRIR*
 * [Melissa Kline Struhl](http://www.melissaklinestruhl.com), *MIT, Lookit & ManyBabies*
 * [Eon-Suk Ko](https://sites.google.com/site/eonsuk/), *Chosun University, ManyBabies*
 * [Jessica Kosie](https://jkosie.github.io), *Princeton University, ManyBabies*
@@ -50,7 +50,7 @@ cover-img: /assets/img/people_blank.png
 * [Canadian Reproducibility Network](https://carn-recar.ca/)
 * [Center for Open Science](https://www.cos.io/)
 * [FORRT](https://forrt.org/)
-* [Lookit & Children Helping Science](https://lookit.mit.edu)
+* [Children Helping Science powered by Lookit](https://lookit.mit.edu)
 * [ManyBabies](manybabies.github.io)
 * [ManyBirds](http://themanybirds.com)
 * [ManyDogs](https://manydogsproject.github.io)
