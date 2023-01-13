@@ -5,7 +5,6 @@ cover-img: /assets/img/people_blank.png
 ---
 
 
-***
 
 ## Stanford members
 * **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *CSLI; Executive Director, ManyBabies*
