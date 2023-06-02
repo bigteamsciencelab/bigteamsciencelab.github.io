@@ -41,7 +41,7 @@ cover-img: /assets/img/people_blank.png
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, USA; ManyDogs*
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada; ManyBabies*
 * [Martin Zettersten](https://mzettersten.github.io), *Princeton University, USA; ManyBabies*
-* [Grace Zhou](https://manybabies.github.io/people/), *University of Manitoba, Canada; ManyBabies*
+
 
 
 ## Affiliate and Partner Organizations
@@ -62,6 +62,8 @@ cover-img: /assets/img/people_blank.png
 
 ## Alumni
 * [Sophia Pink](http://www.sophiapink.com), *Stanford University; Strengthening Democracy Challenge*
+* [Grace Zhou](https://manybabies.github.io/people/), *University of Manitoba, Canada; ManyBabies*
+
 
 ***
 
