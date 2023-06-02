@@ -9,11 +9,12 @@ cover-img: /assets/img/people_blank.png
 ## Stanford members
 * **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *CSLI; Executive Director, ManyBabies*
 * **Co-Director:** [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *CSLI; Director, Psychological Science Accelerator*
-* [Shilaan Alzahawi](https://shilaan.rbind.io), *Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Psychology; ManyBabies*
-* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Sociology; Strengthening Democracy Challenge*
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Sociology; Strengthening Democracy Challenge*
+* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
+* [Shilaan Alzahawi](https://shilaan.rbind.io), *Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
+
 
 ## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*
@@ -34,7 +35,7 @@ cover-img: /assets/img/people_blank.png
 * [Megan Lambert](https://www.researchgate.net/profile/Megan-Lambert), *University of Veterinary Medicine, Vienna, Austria; ManyBirds*
 * [Casey Lew-Willams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, USA; ManyBabies*
 * [Brianna McMillan](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College, USA; ManyBabies*
-* [Rachael Miller](https://www.drrachaelmiller.com/), *University of Cambridge & Anglia Ruskin University, UK; ManyBirds*
+* [Rachael Miller (Harrison)](https://www.drrachaelmiller.com/), *University of Cambridge & Anglia Ruskin University, UK; ManyBirds*
 * [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, USA; ManyFishes*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada; ManyBabies*
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, USA; ManyDogs*
