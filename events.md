@@ -10,9 +10,8 @@ cover-img: /assets/img/events_blank.png
 ## 2023 Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a>
-[Conference Website](https://bigteamscienceconference.github.io)
+[Conference Website](https://bigteamscienceconference.github.io) 
 
-<br>
 <br>
 
 ***
