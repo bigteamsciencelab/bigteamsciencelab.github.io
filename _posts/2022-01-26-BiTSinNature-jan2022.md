@@ -3,7 +3,7 @@ layout: post
 title: BiTS In <i>Nature</i>
 subtitle: The promise of Big Team Science
 thumbnail-img: /assets/img/MBNatureComment_web.jpg
-tags: [BiTS, publications]
+tags: [BiTS, publications, BTS]
 ---
 
 We are thrilled to share this [commentary in <I>Nature</I>](https://www.nature.com/articles/d41586-022-00150-2), highlighting the promise of (and challenges for) Big Team Science organizations! 

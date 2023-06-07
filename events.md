@@ -5,6 +5,13 @@ cover-img: /assets/img/events_blank.png
 ---
 
 #### *Upcoming Events*
+
+### October 23-25, 2023 
+## 2023 Big Team Science Conference
+
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a>
+[Conference Website](https://bigteamscienceconference.github.io)
+
 <br>
 <br>
 
@@ -12,8 +19,20 @@ cover-img: /assets/img/events_blank.png
 
 #### *Past Events*
 
+### April 5, 2023 9-10:00am PT on Zoom
+## INSciTS Team Science Seminar: Linking SciTS and Big Team Science to Advance Complex Collaborations
+
+The rise of big team science has vitalized conversations about how scientific contributions are recognized and rewarded. This panel will discuss challenges with this complex area of research as detailed in Coles et al. (2022; 2023), with an emphasis on one of the central issues in these conversations – what constitutes authorship in science. Perspectives on authorship vary both within and between individual researchers, scientific organizations, publishers, and science stakeholders. Three panelists from big team science initiatives will review their perspectives and experiences with these issues–and audience members will be encouraged to submit additional questions and join the conversation.
+
+* Dr. Drew Altschul, *University of Edinburgh, ManyPrimates*, panelist
+* Dr. Heidi Baumgartner, *Stanford University, ManyBabies*, panelist
+* Dr. Nicholas Coles, *Stanford University, Psychological Science Accelerator*, panelist
+* Dr. Stephen M. Fiore, *University of Central Florida, INSciTS*, moderator
+
+
+***
 ### October 27-28, 2022 
-## Big Team Science Conference
+## 2022 Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
 [Conference Website](https://bigteamscienceconference.github.io)

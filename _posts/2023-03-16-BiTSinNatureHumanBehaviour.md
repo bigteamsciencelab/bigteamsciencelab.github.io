@@ -3,7 +3,7 @@ layout: post
 title: BiTS in <i>Nature Human Behaviour</i>
 subtitle: BTS authorship challenges
 thumbnail-img: /assets/img/BTS_authorship.png
-tags: [MB, BTS]
+tags: [BTS, publications, authorship]
 ---
 
 BiTS members Nicholas Coles, Lisa DeBruine, Flavio Azevedo, Heidi Baumgartner, & Michael Frank wrote this comment on how 'BTS challenges us to reconsider authorship'. 
