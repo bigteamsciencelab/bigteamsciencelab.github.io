@@ -9,7 +9,7 @@ cover-img: /assets/img/events_blank.png
 ### October 23-25, 2023 
 ## 2023 Big Team Science Conference
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a>
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25"></a>
 [Conference Website](https://bigteamscienceconference.github.io) 
 
 <br>
@@ -33,7 +33,7 @@ The rise of big team science has vitalized conversations about how scientific co
 ### October 27-28, 2022 
 ## 2022 Big Team Science Conference
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28"></a>
 [Conference Website](https://bigteamscienceconference.github.io)
 
 
