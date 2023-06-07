@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BiTS in RSOS
+title: BiTS in <i>RSOS</i>
 subtitle: How to build up big team science
 thumbnail-img: /assets/img/BTS_howto.png
 tags: [BiTS, publications]

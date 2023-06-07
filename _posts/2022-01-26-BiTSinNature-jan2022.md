@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BiTS In <I>Nature</I>
+title: BiTS In <i>Nature</i>
 subtitle: The promise of Big Team Science
 thumbnail-img: /assets/img/MBNatureComment_web.jpg
 tags: [BiTS, publications]
