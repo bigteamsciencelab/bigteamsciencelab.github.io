@@ -2,7 +2,7 @@
 layout: post
 title: BiTS In <I>Nature</I>
 subtitle: The promise of Big Team Science
-thumbnail-img: /assets/img/MBNatureComment_web.png
+thumbnail-img: /assets/img/MBNatureComment_web.jpg
 tags: [BiTS, publications]
 ---
 
