@@ -19,12 +19,12 @@ cover-img: /assets/img/people_blank.png
 ## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*
 * [Drew Altschul](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK; ManyPrimates*
-* [Flavio Azevedo](http://flavioazevedo.com/about), *University of Cambridge, UK; FORRT*
+* [Flavio Azevedo](http://flavioazevedo.com/about), *University of Groningen, Netherlands; FORRT*
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany; Max Planck Institute for Psycholinguistics, Netherlands; ManyBabies*
 * [Manuel Bohn](https://manuelbohn.github.io/), *Max Planck Institute for Evolutionary Anthropology, Germany; ManyPrimates*
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada; ManyBabies*
 * [Sarah-Elizabeth Byosiere](https://www.gc.cuny.edu/people/sarah-elizabeth-byosiere), *CUNY, USA; ManyDogs*
-* [Nadia Saraí Corral-Frías](), *University of Sonora, Mexico; ABRIR*
+* [Nadia Saraí Corral-Frías](https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias), *University of Sonora, Mexico; ABRIR*
 * [Tim Errington](https://osf.io/alh38/), *Center for Open Science, USA*
 * [Julia Espinosa](https://sites.google.com/view/jespinosa), *Harvard University, USA; ManyDogs*
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada; ManyBabies*
