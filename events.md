@@ -4,19 +4,25 @@ title: events
 cover-img: /assets/img/events_blank.png
 ---
 
+<!--
 #### *Upcoming Events*
+-->
 
-### October 23-25, 2023 
+
+
+***
+
+
+#### *Past Events*
+
+## October 23-25, 2023 
 ## 2023 Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25"></a>
 [Conference Website](https://bigteamscienceconference.github.io) 
 
-<br>
 
-***
-
-#### *Past Events*
+ ***
 
 ### April 5, 2023 9-10:00am PT on Zoom
 ## INSciTS Team Science Seminar: Linking SciTS and Big Team Science to Advance Complex Collaborations
