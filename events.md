@@ -15,8 +15,8 @@ cover-img: /assets/img/events_blank.png
 
 #### *Past Events*
 
-## October 8-10, 2023 
-## 2023 Big Team Science Conference
+## October 8-10, 2024 
+## 2024 Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10"></a>
 [Conference Website](https://bigteamscienceconference.github.io) 
