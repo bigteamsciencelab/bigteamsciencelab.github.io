@@ -12,7 +12,6 @@ cover-img: /assets/img/people_blank.png
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Psychology; ManyBabies*
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Sociology; Strengthening Democracy Challenge*
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Sociology; Strengthening Democracy Challenge*
-* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
 * [Shilaan Alzahawi](https://shilaan.rbind.io), *Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
 
 
@@ -23,6 +22,7 @@ cover-img: /assets/img/people_blank.png
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany; Max Planck Institute for Psycholinguistics, Netherlands; ManyBabies*
 * [Manuel Bohn](https://manuelbohn.github.io/), *Max Planck Institute for Evolutionary Anthropology, Germany; ManyPrimates*
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada; ManyBabies*
+* [Kelly Cobey](https://www.ottawaheart.ca/profile/cobey-kelly), *University of Ottawa; Canadian Reproducibility Network*
 * [Sarah-Elizabeth Byosiere](https://www.gc.cuny.edu/people/sarah-elizabeth-byosiere), *CUNY, USA; ManyDogs*
 * [Nadia Saraí Corral-Frías](https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias), *University of Sonora, Mexico; ABRIR*
 * [Tim Errington](https://osf.io/alh38/), *Center for Open Science, USA*
@@ -62,6 +62,7 @@ cover-img: /assets/img/people_blank.png
 
 ## Alumni
 * [Sophia Pink](http://www.sophiapink.com), *Stanford University; Strengthening Democracy Challenge*
+* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
 * [Grace Zhou](https://manybabies.github.io/people/), *University of Manitoba, Canada; ManyBabies*
 
 
