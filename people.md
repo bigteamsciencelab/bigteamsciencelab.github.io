@@ -6,8 +6,8 @@ cover-img: /assets/img/people_blank.png
 
 
 ## Co-Directors
-* **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
-* **Co-Director:** [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Director Emeritus, Psychological Science Accelerator*
+* [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
+* [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Director Emeritus, Psychological Science Accelerator*
 
 
 ## Members
