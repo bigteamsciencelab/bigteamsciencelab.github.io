@@ -60,8 +60,8 @@ cover-img: /assets/img/people_blank.png
 
 
 ## Alumni
-* [Sophia Pink](http://www.sophiapink.com), *Stanford University; Strengthening Democracy Challenge*
-* [Robert Thibault](https://www.robert-thibault.com/), *METRICS; Canadian Reproducibility Network*
+* [Sophia Pink](http://www.sophiapink.com), *Stanford University, USA; Strengthening Democracy Challenge*
+* [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, USA; Canadian Reproducibility Network*
 * [Grace Zhou](https://manybabies.github.io/people/), *University of Manitoba, Canada; ManyBabies*
 
 
