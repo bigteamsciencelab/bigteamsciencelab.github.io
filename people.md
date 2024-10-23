@@ -5,18 +5,14 @@ cover-img: /assets/img/people_blank.png
 ---
 
 
-
-## Stanford members
-* **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *CSLI; Executive Director, ManyBabies*
-* **Co-Director:** [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *CSLI; Director, Psychological Science Accelerator*
-* [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Psychology; ManyBabies*
-* [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Sociology; Strengthening Democracy Challenge*
-* [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Sociology; Strengthening Democracy Challenge*
-* [Shilaan Alzahawi](https://shilaan.rbind.io), *Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
+## Co-Directors
+* **Co-Director:** [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
+* **Co-Director:** [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Director Emeritus, Psychological Science Accelerator*
 
 
-## Affiliate members
+## Members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*
+* [Shilaan Alzahawi](https://shilaan.rbind.io), *Stanford University Graduate School of Business; Center for Open and Reproducible Science; Data Science for Social Good*
 * [Drew Altschul](https://www.ed.ac.uk/profile/drewmaltschul), *University of Edinburgh, UK; ManyPrimates*
 * [Flavio Azevedo](http://flavioazevedo.com/about), *University of Groningen, Netherlands; FORRT*
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany; Max Planck Institute for Psycholinguistics, Netherlands; ManyBabies*
@@ -27,6 +23,7 @@ cover-img: /assets/img/people_blank.png
 * [Nadia Saraí Corral-Frías](https://investigadores.unison.mx/en/persons/nadia-sarai-corral-frias), *University of Sonora, Mexico; ABRIR*
 * [Tim Errington](https://osf.io/alh38/), *Center for Open Science, USA*
 * [Julia Espinosa](https://sites.google.com/view/jespinosa), *Harvard University, USA; ManyDogs*
+* [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, USA; ManyBabies*
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada; ManyBabies*
 * [Alma Jeftić](https://scholar.google.com/citations?hl=hr&user=oXBgT5IAAAAJ&scilu=&scisig=AMD79ooAAAAAXq25diM285kFt1dt_PGpX5fStWUWAcr_&gmla=AJsN-F77VWP7ByzcKTeyKVUFBEMMrhEt1Oo28IneH9WUpDk0B8NXc_lMDD_rBcEoIkFrjqcrXFdc9Sx4lPeyYZITuPtGSBZFo_qzJ_6zHHdLvyqPFT2_DOqdlWrWqliUGZ4r44PD6ELr&sciund=14116810897412037656), *International Christian University, Japan & University of Copenhagen, Denmark; ABRIR*
 * [Melissa Kline Struhl](http://www.melissaklinestruhl.com), *MIT, USA; Lookit; ManyBabies*
@@ -39,6 +36,8 @@ cover-img: /assets/img/people_blank.png
 * [Laurent Prétôt](https://www.pittstate.edu/education/psychology-and-counseling/faculty-and-staff/laurent-pr%C3%A9t%C3%B4t.html), *Pittsburgh State University, USA; ManyFishes*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada; ManyBabies*
 * [Jeffrey Stevens](https://dogcog.unl.edu/people), *University of Nebraska-Lincoln, USA; ManyDogs*
+* [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Stanford University, USA; Strengthening Democracy Challenge*
+* [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Stanford University, USA; Strengthening Democracy Challenge*
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada; ManyBabies*
 * [Martin Zettersten](https://mzettersten.github.io), *Princeton University, USA; ManyBabies*
 
