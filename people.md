@@ -40,7 +40,7 @@ cover-img: /assets/img/people_blank.png
 <br>
 
 ## Alumni
-* [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Director Emeritus, Psychological Science Accelerator*
+* [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Founding BiTS Lab Co-Director & Director Emeritus, Psychological Science Accelerator*
 * [Sophia Pink](http://www.sophiapink.com), *Stanford University, USA; Strengthening Democracy Challenge*
 * [Robert Thibault](https://www.robert-thibault.com/), *Stanford University, USA; Canadian Reproducibility Network*
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Stanford University, USA; Strengthening Democracy Challenge*
