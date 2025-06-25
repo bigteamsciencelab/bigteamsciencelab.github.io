@@ -13,20 +13,46 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 
 
 ***
-## [People & Partner Organizations]({{site.baseurl}}/people/)
+## [Partner Organizations]({{site.baseurl}}/people/)
 
+### Network Partners
+
+* [ManyBabies](manybabies.github.io)
+* [ManyBirds](http://themanybirds.com)
+* [ManyDogs](https://manydogsproject.github.io)
+* [ManyFishes](https://twitter.com/TheManyFishes)
+* [ManyPrimates](https://manyprimates.github.io)
+* [Psychological Science Accelerator](https://psysciacc.org)
+* [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
+
+### Community Partners
+
+* [ABRIR](https://abrirpsy.org/)
+* [Canadian Reproducibility Network](https://carn-recar.ca/)
+* [Center for Open Science](https://www.cos.io/)
+* [Children Helping Science powered by Lookit](https://lookit.mit.edu)
+
+<br>
+
+***
+## [People]({{site.baseurl}}/people/)
+
+<br> 
 
 ***
 ## [Events]({{site.baseurl}}/events/)
 
+<br>
 
 ***
 ## [News]({{site.baseurl}}/news/)
 
+<br>
  
 ***
 ## [Get involved!]({{site.baseurl}}/get_involved/)
 
+<br>
 
 ***
 

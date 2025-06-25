@@ -7,4 +7,4 @@ cover-img: /assets/img/network.png
 
 ## Join our network of networks!
 
-To get involved, email the co-directors of BiTS: [Nicholas Coles](mailto:ncoles@stanford.edu) and [Heidi Baumgartner](mailto:heidib@stanford.edu)
+To get involved, email us at [partnership@manybabies.org](mailto:partnership@manybabies.org)
