@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/BiTS_header.png
+cover-img: /assets/img/BiTS_logo-alt.png
 ---
 
 <!---
@@ -9,7 +9,7 @@ Notes
 	- logo and project placeholders follow it.
 --->
 
-The Stanford **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conversations between members of large-scale collaborations (both at Stanford and beyond) and to advance the work done by these groups.
+The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conversations between members of large-scale collaborations and to advance the work done by these groups.
 
 
 ***
