@@ -4,13 +4,14 @@ title: people
 cover-img: /assets/img/people_blank.png
 ---
 
-## BiTS Lab Director
-* [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
 
 ## Partnership Co-Directors
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada; ManyBabies*
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada; ManyBabies*
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada; ManyBabies*
+
+## BiTS Lab Director
+* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner), *Stanford University, USA; Executive Director, ManyBabies*
 
 ## Members
 * [Nicolás Alessandroni](http://infantresearch.ca/team), *Concordia University, Canada; ManyBabies*

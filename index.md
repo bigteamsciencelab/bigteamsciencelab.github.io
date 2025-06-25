@@ -35,24 +35,13 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 <br>
 
 ***
-## [People]({{site.baseurl}}/people/)
 
-<br> 
+## More info
 
-***
-## [Events]({{site.baseurl}}/events/)
-
-<br>
-
-***
-## [News]({{site.baseurl}}/news/)
-
-<br>
- 
-***
-## [Get involved!]({{site.baseurl}}/get_involved/)
-
-<br>
+* ### [People]({{site.baseurl}}/people/)
+* ### [Events]({{site.baseurl}}/events/)
+* ### [News]({{site.baseurl}}/news/)
+* ### [Get involved!]({{site.baseurl}}/get_involved/)
 
 ***
 
