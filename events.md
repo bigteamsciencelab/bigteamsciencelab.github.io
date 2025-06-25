@@ -4,32 +4,34 @@ title: events
 cover-img: /assets/img/events_blank.png
 ---
 
-<!--
-#### *Upcoming Events*
--->
-
-
+> The BiTS Lab meets quarterly. If you are interested in joining our next meeting, [email us](mailto:partnership@manybabies.org)!
 
 ***
 
+#### *Upcoming Events*
+
+### October 6-8, 2025 
+## 2025 Big Team Science Conference
+
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8"></a>
+[Conference Website](https://bigteamscienceconference.github.io) 
+
+
+***
 
 #### *Past Events*
 
-## October 8-10, 2024 
+### October 8-10, 2024 
 ## 2024 Big Team Science Conference
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10"></a>
-[Conference Website](https://bigteamscienceconference.github.io) 
-
+<a href="https://bigteamscienceconference.github.io/2024btscon/" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10"></a>
 
 ***
 
-## October 23-25, 2023 
+### October 23-25, 2023 
 ## 2023 Big Team Science Conference
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25"></a>
-[Conference Website](https://bigteamscienceconference.github.io) 
-
+<a href="https://bigteamscienceconference.github.io/2023btscon/" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25"></a>
 
  ***
 
@@ -43,14 +45,11 @@ The rise of big team science has vitalized conversations about how scientific co
 * Dr. Nicholas Coles, *Stanford University, Psychological Science Accelerator*, panelist
 * Dr. Stephen M. Fiore, *University of Central Florida, INSciTS*, moderator
 
-
 ***
 ### October 27-28, 2022 
 ## 2022 Big Team Science Conference
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28"></a>
-[Conference Website](https://bigteamscienceconference.github.io)
-
+<a href="https://bigteamscienceconference.github.io/2022btscon/" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28"></a>
 
 ***
 ### April 29, 2022 10-11:30am PT on Zoom
@@ -73,19 +72,3 @@ This panel will bring together diverse perspectives to discuss various authorshi
 
 A recording of the panel is available [here](https://stanford.zoom.us/rec/play/2uaC97qwwMzeK57ghAVdQHKC-fgXEFifoEbcTOGGiOMzcqc-prfPs7XgeUcL57DAKTeUFncBBDTvfOq7._xHP9rhrYWenlbI6?continueMode=true)
 
-### Contact Us
-
-Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas Coles](mailto:ncoles@stanford.edu) 
-
-***
-
-<!---
-**Past Events**
-
-***
---->
-
-
-
-### Get involved
-We encourage everyone who is interested in Big Team Science to [get involved]({{site.baseurl}}/get_involved/).
