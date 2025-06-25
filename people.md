@@ -49,7 +49,7 @@ cover-img: /assets/img/people_blank.png
 
 ***
 
-### Get involved
+## Get involved
 We encourage representatives of Big Team Social Science networks to [get involved]({{site.baseurl}}/get_involved/)!
 
 

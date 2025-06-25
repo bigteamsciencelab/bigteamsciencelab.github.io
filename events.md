@@ -13,8 +13,9 @@ cover-img: /assets/img/events_blank.png
 ### October 6-8, 2025 
 ## 2025 Big Team Science Conference
 
+#### [Conference Website](https://bigteamscienceconference.github.io) 
+
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8"></a>
-[Conference Website](https://bigteamscienceconference.github.io) 
 
 
 ***
