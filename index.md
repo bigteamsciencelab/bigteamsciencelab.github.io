@@ -1,6 +1,6 @@
 ---
 layout: page
-cover-img: /assets/img/BiTS_logo-alt.png
+cover-img: /assets/img/BiTS_header-alt.png
 ---
 
 <!---
