@@ -37,7 +37,7 @@ cover-img: /assets/img/people_blank.png
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer), *Stanford University, USA; Strengthening Democracy Challenge*
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada; ManyBabies*
 
-<br>
+***
 
 ## Alumni
 * [Nicholas A. Coles](https://scholars.ufl.edu/ncoles), *University of Florida, USA; Founding BiTS Lab Co-Director & Director Emeritus, Psychological Science Accelerator*

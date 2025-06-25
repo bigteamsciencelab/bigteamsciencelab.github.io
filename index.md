@@ -32,8 +32,6 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 * [Center for Open Science](https://www.cos.io/)
 * [Children Helping Science powered by Lookit](https://lookit.mit.edu)
 
-<br>
-
 ***
 
 ## More info
