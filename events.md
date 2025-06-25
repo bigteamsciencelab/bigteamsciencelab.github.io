@@ -15,7 +15,7 @@ cover-img: /assets/img/events_blank.png
 
 #### [Conference Website](https://bigteamscienceconference.github.io) 
 
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8"></a>
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8" width="400"></a>
 
 
 ***
@@ -72,4 +72,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 ### Watch the recording
 
 A recording of the panel is available [here](https://stanford.zoom.us/rec/play/2uaC97qwwMzeK57ghAVdQHKC-fgXEFifoEbcTOGGiOMzcqc-prfPs7XgeUcL57DAKTeUFncBBDTvfOq7._xHP9rhrYWenlbI6?continueMode=true)
+
+***
+
 
