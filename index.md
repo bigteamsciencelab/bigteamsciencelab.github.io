@@ -13,7 +13,7 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 
 
 ***
-## [Partner Organizations]({{site.baseurl}}/people/)
+## Partner Organizations
 
 ### Network Partners
 
@@ -39,7 +39,7 @@ The **Big Team Science (BiTS)** Lab was established in 2021 to facilitate conver
 * ### [People]({{site.baseurl}}/people/)
 * ### [Events]({{site.baseurl}}/events/)
 * ### [News]({{site.baseurl}}/news/)
-* ### [Get involved!]({{site.baseurl}}/get_involved/)
+* ### [Get involved]({{site.baseurl}}/get_involved/)
 
 ***
 
